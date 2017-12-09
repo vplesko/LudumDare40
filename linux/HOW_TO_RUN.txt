@@ -1,0 +1,1 @@
+Run with: LD_LIBRARY_PATH+=linux_libs ./CrimsonAssault

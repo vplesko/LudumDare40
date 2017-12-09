@@ -1,4 +1,5 @@
 #include "MathUtility.hpp"
+#include <cmath>
 
 const float MathUtility::Pi = 3.1415f;
 const float MathUtility::twoPi = 2 * MathUtility::Pi;
