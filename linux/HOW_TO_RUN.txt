@@ -1,1 +1,2 @@
 Run with: LD_LIBRARY_PATH+=linux_libs ./CrimsonAssault
+You can download linux_libs from game's Linux version on: https://onionburger.itch.io/crimson-assault
