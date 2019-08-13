@@ -6,7 +6,7 @@ I participated in Compo category. This means I was working solo to develop a gam
 
 Rules of the competition ask that I share my source code, which is why I created this repository. Project is in C++. It uses SFML, which I did not include in this repository, but you will need it to successfully compile the code.
 
-For creating levels, I used PlaneSmith. That is an open-source tool I created which you can find here: https://github.com/OnionBurger/PlaneSmith
+For creating levels, I used PlaneSmith. That is an open-source tool I created which you can find here: https://github.com/vplesko/PlaneSmith
 
 # Crimson Assault
 
