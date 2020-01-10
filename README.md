@@ -18,7 +18,7 @@ Features three levels of increasing difficulty and excitement.
 
 ## How to play
 
-You can download a zip archive from releases section. Alternatively, you could download the game from itch.io: https://onionburger.itch.io/crimson-assault
+You can download a zip archive from releases section. Alternatively, you could download the game from itch.io: https://pljedzha.itch.io/crimson-assault
 
 Unpack and run the exe to start.
 
